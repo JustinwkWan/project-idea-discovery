@@ -1,3 +1,6 @@
 Multi-Source Research Agent
 Lightweight Markdown Knowledge Base
 Local LLM Benchmark & Advisor
+agent-skills
+tolaria
+SkillSpector
