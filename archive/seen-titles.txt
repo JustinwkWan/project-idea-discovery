@@ -4,3 +4,6 @@ Local LLM Benchmark & Advisor
 agent-skills
 tolaria
 SkillSpector
+Coding Session Analytics Dashboard
+Unified AI Provider CLI Tool
+KV Cache Optimization Toolkit
