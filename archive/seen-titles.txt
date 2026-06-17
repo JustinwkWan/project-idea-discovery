@@ -7,3 +7,6 @@ SkillSpector
 Coding Session Analytics Dashboard
 Unified AI Provider CLI Tool
 KV Cache Optimization Toolkit
+Agent-Reach: Internet-Scale AI Agent Perception
+Codebase Memory MCP: Indexable Code Intelligence
+OpenMontage: Agentic Video Production Pipeline
