@@ -10,3 +10,6 @@ KV Cache Optimization Toolkit
 Agent-Reach: Internet-Scale AI Agent Perception
 Codebase Memory MCP: Indexable Code Intelligence
 OpenMontage: Agentic Video Production Pipeline
+Codebase Memory MCP Server
+AI Agent Framework for UI Builders
+Video Production Orchestration Pipeline
