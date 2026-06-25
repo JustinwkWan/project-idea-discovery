@@ -16,3 +16,6 @@ Video Production Orchestration Pipeline
 AI Website Cloner Template
 Real-Time Global Intelligence Dashboard
 Daily Stock Analysis Dashboard
+TREK Travel Planner
+MinerU Document Transformer
+page-agent Web UI Natural Language Control
