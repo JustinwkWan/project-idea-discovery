@@ -19,3 +19,6 @@ Daily Stock Analysis Dashboard
 TREK Travel Planner
 MinerU Document Transformer
 page-agent Web UI Natural Language Control
+hugohe3/ppt-master
+HKUDS/Vibe-Trading
+every-app/open-seo
